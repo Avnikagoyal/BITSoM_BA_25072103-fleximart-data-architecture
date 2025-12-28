@@ -1,0 +1,8 @@
+Customers Loaded: 20
+Customers Removed: 6
+
+Products Loaded: 17
+Products Removed: 3
+
+Transactions Loaded: 34
+Transactions Removed: 7
