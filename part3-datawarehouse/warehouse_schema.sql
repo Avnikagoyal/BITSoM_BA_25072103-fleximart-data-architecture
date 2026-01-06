@@ -12,6 +12,7 @@ CREATE TABLE dim_date (
     is_weekend BOOLEAN
 );
 
+
 CREATE TABLE dim_product (
     product_key INT PRIMARY KEY AUTO_INCREMENT,
     product_id VARCHAR(20),
