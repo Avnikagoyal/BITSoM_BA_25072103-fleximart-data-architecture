@@ -23,9 +23,9 @@ conn.commit()
 report = []
 
 # ---------------- LOAD CSV FILES ----------------
-customers = pd.read_csv("./data/customers_raw.csv")
-products = pd.read_csv("./data/products_raw.csv")
-transactions = pd.read_csv("./data/sales_raw.csv")
+customers = pd.read_csv("../data/customers_raw.csv")
+products = pd.read_csv("../data/products_raw.csv")
+transactions = pd.read_csv("../data/sales_raw.csv")
 
 # ================= CUSTOMERS =================
 cust_before = len(customers)
